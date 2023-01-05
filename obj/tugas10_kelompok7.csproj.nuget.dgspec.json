@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\! Kuliah\\Semester 3\\Pemrog\\tugas10\\kelomok7\\tugas10_kelompok7\\tugas10_kelompok7.csproj": {}
+    "C:\\Users\\utama\\OneDrive\\Desktop\\barubaru\\tugas10_kelompok7.csproj": {}
   },
   "projects": {
-    "D:\\! Kuliah\\Semester 3\\Pemrog\\tugas10\\kelomok7\\tugas10_kelompok7\\tugas10_kelompok7.csproj": {
+    "C:\\Users\\utama\\OneDrive\\Desktop\\barubaru\\tugas10_kelompok7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\! Kuliah\\Semester 3\\Pemrog\\tugas10\\kelomok7\\tugas10_kelompok7\\tugas10_kelompok7.csproj",
+        "projectUniqueName": "C:\\Users\\utama\\OneDrive\\Desktop\\barubaru\\tugas10_kelompok7.csproj",
         "projectName": "tugas10_kelompok7",
-        "projectPath": "D:\\! Kuliah\\Semester 3\\Pemrog\\tugas10\\kelomok7\\tugas10_kelompok7\\tugas10_kelompok7.csproj",
+        "projectPath": "C:\\Users\\utama\\OneDrive\\Desktop\\barubaru\\tugas10_kelompok7.csproj",
         "packagesPath": "C:\\Users\\utama\\.nuget\\packages\\",
-        "outputPath": "D:\\! Kuliah\\Semester 3\\Pemrog\\tugas10\\kelomok7\\tugas10_kelompok7\\obj\\",
+        "outputPath": "C:\\Users\\utama\\OneDrive\\Desktop\\barubaru\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\utama\\AppData\\Roaming\\NuGet\\NuGet.Config",
