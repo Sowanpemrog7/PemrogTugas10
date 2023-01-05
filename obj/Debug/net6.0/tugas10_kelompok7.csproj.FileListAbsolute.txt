@@ -1,0 +1,15 @@
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\bin\Debug\net6.0\tugas10_kelompok7.exe
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\bin\Debug\net6.0\tugas10_kelompok7.deps.json
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\bin\Debug\net6.0\tugas10_kelompok7.runtimeconfig.json
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\bin\Debug\net6.0\tugas10_kelompok7.dll
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\bin\Debug\net6.0\tugas10_kelompok7.pdb
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\tugas10_kelompok7.csproj.AssemblyReference.cache
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\tugas10_kelompok7.GeneratedMSBuildEditorConfig.editorconfig
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\tugas10_kelompok7.AssemblyInfoInputs.cache
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\tugas10_kelompok7.AssemblyInfo.cs
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\tugas10_kelompok7.csproj.CoreCompileInputs.cache
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\tugas10_kelompok7.dll
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\refint\tugas10_kelompok7.dll
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\tugas10_kelompok7.pdb
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\tugas10_kelompok7.genruntimeconfig.cache
+D:\! Kuliah\Semester 3\Pemrog\tugas10\kelomok7\tugas10_kelompok7\obj\Debug\net6.0\ref\tugas10_kelompok7.dll
